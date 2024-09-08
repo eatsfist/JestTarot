@@ -2,7 +2,11 @@
 
 h1 {
   color: #AB8422;
+  fontsize: 100;
   font-family: Arial;
-  font-weight: bold;
+  
+
+  text-align: center;
+  text-transform: uppercase;
     
 }
