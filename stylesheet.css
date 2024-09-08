@@ -2,7 +2,7 @@
 
 h1 {
   color: #AB8422;
-  fontsize: 100;
+  fontsize: 300;
   font-family: Arial;
   
 
@@ -15,9 +15,17 @@ body {
   background-color: #D4D5D6;
 }
 
+h3 {
+  font-color: #647A52;
+  fontsize: 200;
+  
+  text-align: center;
+  text-tranform: uppercase;
+}
+
 h4 {
   font-color: #1D1B1B;
-  fontsize: 50;
+  fontsize: 150;
   font-family: Arial;
 
   
